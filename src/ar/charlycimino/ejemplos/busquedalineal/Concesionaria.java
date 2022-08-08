@@ -1,4 +1,4 @@
-package busquedalineal;
+package ar.charlycimino.ejemplos.busquedalineal;
 
 import java.util.ArrayList;
 import java.util.Iterator;

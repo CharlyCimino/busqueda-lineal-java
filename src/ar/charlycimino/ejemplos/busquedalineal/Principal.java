@@ -1,4 +1,4 @@
-package busquedalineal;
+package ar.charlycimino.ejemplos.busquedalineal;
 
 /**
  *
